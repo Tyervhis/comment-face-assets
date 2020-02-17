@@ -9,13 +9,6 @@ The repository of media and data of [/r/anime](https://www.reddit.com/r/anime) C
     Currently active Comment Faces.
   * `discontinued`
     Discontinued Comment Faces.
-* `source`
-  * `animated`
-    Source frames of animated Comment Faces. Each directory represents a Comment Face. The frames are stored as PNG images named as 4-digit numbers starting from 0.
-    The directories can contain also `original` subdirectory with the original file the source is created from and `edited` subdirectory with the edited version of the original file.
-  * `static`
-    Source images of static Comment Faces. Each directory represents a Comment Face. The images are stored as PNG files using the name of the Comment Face.
-    The directories can contain also `original` subdirectory with the original file the source is created from and `edited` subdirectory with the edited version of the original file.
 
 ## List of Comment Faces
 
